@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenesQt/eled.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenesQt/pape.jpg</file>
+    </qresource>
+</RCC>
